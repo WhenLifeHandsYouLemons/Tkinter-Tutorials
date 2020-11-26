@@ -17,7 +17,7 @@ class App():
         print("Clicked")
         self.window.configure(bg="#ff0000")
         self.label.configure(bg="#ff0000")
-        self.label.configure(fg="#ffffff")        
+        self.label.configure(fg="#ffffff")
 
 root = tk.Tk()
 root.withdraw()
