@@ -1,2 +1,4 @@
 # Tkinter Tutorials
- This is a folder containing tkinter tutorials.
+ This is a repository containing tkinter tutorials.
+ 
+ This repository will NOT be updated in the near future.
